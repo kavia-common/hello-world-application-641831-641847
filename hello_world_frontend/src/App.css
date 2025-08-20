@@ -8,6 +8,11 @@
   --border-color: #e9ecef;
   --button-bg: #007bff;
   --button-text: #ffffff;
+
+  /* KAVIA project theme colors */
+  --primary: #1976d2;
+  --accent: #ff4081;
+  --secondary: #424242;
 }
 
 [data-theme="dark"] {
